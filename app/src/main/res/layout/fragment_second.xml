@@ -7,6 +7,7 @@
     tools:context=".SecondFragment" >
 
     <WebView
+        android:id="@+id/website"
         android:layout_width="366dp"
         android:layout_height="507dp"
         android:layout_marginStart="24dp"
